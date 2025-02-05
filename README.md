@@ -43,6 +43,10 @@ The project is organized into three main files:
 - **Make moves** by clicking on pieces and selecting valid squares
 - **Win by checkmating** the opponent’s king!
 
+## some photos 
+![AI Move Example](https://your-image-url.com/chess-ai.png)
+
+
 ## 🧠 AI Algorithm
 The AI utilizes the **Minimax algorithm** with **Alpha-Beta Pruning**, which:
 - Explores future moves recursively
