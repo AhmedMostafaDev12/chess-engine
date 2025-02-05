@@ -25,7 +25,7 @@ The project is organized into three main files:
 ## 📦 Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/chess-engine.git
+   git clone https://github.com/AhmedMostafaDev12/chess-engine.git
    cd chess-engine
    ```
 2. **Install dependencies:**
@@ -57,8 +57,7 @@ The AI utilizes the **Minimax algorithm** with **Alpha-Beta Pruning**, which:
 ## 🤝 Contributing
 Feel free to **fork this repository** and contribute improvements!
 
-## 📜 License
-This project is **open-source** under the **MIT License**.
+
 
 
 
