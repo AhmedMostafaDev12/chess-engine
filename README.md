@@ -18,8 +18,8 @@ This is a **fully functional Chess Engine** that allows you to play against a **
 ## 🛠️ Project Structure
 The project is organized into three main files:
 
-1. **`main.py`** – Handles the **GUI** and interactive gameplay
-2. **`chess_engine.py`** – Implements **move generation** and **validation**
+1. **`chessmain.py`** – Handles the **GUI** and interactive gameplay
+2. **`chessengine.py`** – Implements **move generation** and **validation**
 3. **`AI.py`** – Contains the **AI logic**, including **Minimax with Alpha-Beta Pruning**
 
 ## 📦 Installation
@@ -34,11 +34,11 @@ The project is organized into three main files:
    ```
 3. **Run the game:**
    ```bash
-   python main.py
+   python chessmain.py
    ```
 
 ## 🎮 How to Play
-- **Start the game** by running `main.py`
+- **Start the game** by running `chessmain.py`
 - **Choose a mode**: Play against the AI or another human
 - **Make moves** by clicking on pieces and selecting valid squares
 - **Win by checkmating** the opponent’s king!
