@@ -45,7 +45,7 @@ The project is organized into three main files:
 
 ## some photos 
 ![game start](https://github.com/AhmedMostafaDev12/chess-engine/blob/main/Screenshot%202025-02-05%20200000.png)
-
+![check mate](https://github.com/AhmedMostafaDev12/chess-engine/blob/main/Screenshot%202025-02-05%20195949.png)
 
 ## 🧠 AI Algorithm
 The AI utilizes the **Minimax algorithm** with **Alpha-Beta Pruning**, which:
